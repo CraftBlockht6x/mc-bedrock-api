@@ -24,7 +24,7 @@ npm install
 ## 启动
 
 ```bash
-npm start
+npm run start
 ```
 
 ## API 接口
